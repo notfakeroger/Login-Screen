@@ -1,2 +1,2 @@
 # Login Screen
- Esse é um projeto em HTML e CSS de uma tela de Login. Essa tela possui layout responsivo e foi feita para que eu possa usar de portifólio com o objetivo de conseguir um estágio de programador web em alguma empresa.
+ This is an HTML and CSS design of a Login screen. This screen has a responsive layout and was made so that I can use it as a portfolio with the aim of getting a web programmer internship at a company.
